@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3nvUoHcRbgPu1Z9ulMpfoZUgXEFnHedM9vGzHi4km06iEpTKOIP6wbaNoPxtmbzIou+Yc9dYDnw86+h2dJ+xA==",
+  "success": true,
+  "projectFilePath": "C:\\Programming Practices\\Csharp Basic Logger\\Csharp Basic Logger\\Csharp Basic Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danpier\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Danpier\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Danpier\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
