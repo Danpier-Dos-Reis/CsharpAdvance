@@ -20,3 +20,12 @@ C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\obj\Debug\net8.
 C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\obj\Debug\net8.0\Csharp Basic Logger.pdb
 C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\obj\Debug\net8.0\Csharp Basic Logger.genruntimeconfig.cache
 C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\obj\Debug\net8.0\ref\Csharp Basic Logger.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\NLog.dll
+C:\Programming Practices\Csharp Basic Logger\Csharp Basic Logger\bin\Debug\net8.0\NLog.Extensions.Logging.dll

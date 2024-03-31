@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp Basic Logger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a01556160ccbead2332afe82ce112ed1d6ef3e10")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp Basic Logger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp Basic Logger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
