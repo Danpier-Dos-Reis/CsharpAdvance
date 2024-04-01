@@ -1,0 +1,67 @@
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\bin\Debug\net8.0-windows\DebugViewer.exe
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\bin\Debug\net8.0-windows\DebugViewer.deps.json
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\bin\Debug\net8.0-windows\DebugViewer.runtimeconfig.json
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\bin\Debug\net8.0-windows\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\bin\Debug\net8.0-windows\DebugViewer.pdb
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.GenerateResource.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfoInputs.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfo.cs
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CoreCompileInputs.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\refint\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.pdb
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.genruntimeconfig.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\ref\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebuggerApp\bin\Debug\net8.0-windows\Complements\Debug\net8.0-windows\DebugViewer.exe
+C:\Programming Practices\Csharp Basic Logger\DebuggerApp\bin\Debug\net8.0-windows\Complements\Debug\net8.0-windows\DebugViewer.deps.json
+C:\Programming Practices\Csharp Basic Logger\DebuggerApp\bin\Debug\net8.0-windows\Complements\Debug\net8.0-windows\DebugViewer.runtimeconfig.json
+C:\Programming Practices\Csharp Basic Logger\DebuggerApp\bin\Debug\net8.0-windows\Complements\Debug\net8.0-windows\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebuggerApp\bin\Debug\net8.0-windows\Complements\Debug\net8.0-windows\DebugViewer.pdb
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.AssemblyReference.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CopyComplete
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.DebugView.resources
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.AssemblyReference.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.DebugView.resources
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.GenerateResource.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfoInputs.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfo.cs
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CoreCompileInputs.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\refint\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.pdb
+C:\Programming Practices\Csharp Basic Logger\BuildDirectory\DebugViewerApp\Debug\net8.0-windows\DebugViewer.exe
+C:\Programming Practices\Csharp Basic Logger\BuildDirectory\DebugViewerApp\Debug\net8.0-windows\DebugViewer.deps.json
+C:\Programming Practices\Csharp Basic Logger\BuildDirectory\DebugViewerApp\Debug\net8.0-windows\DebugViewer.runtimeconfig.json
+C:\Programming Practices\Csharp Basic Logger\BuildDirectory\DebugViewerApp\Debug\net8.0-windows\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\BuildDirectory\DebugViewerApp\Debug\net8.0-windows\DebugViewer.pdb
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CopyComplete
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.genruntimeconfig.cache
+C:\Programming Practices\Csharp Basic Logger\DebugViewer\obj\Debug\net8.0-windows\ref\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.AssemblyReference.cache
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.DebugView.resources
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.GenerateResource.cache
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfoInputs.cache
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfo.cs
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CoreCompileInputs.cache
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CopyComplete
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\refint\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.pdb
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.genruntimeconfig.cache
+C:\Programming Practices\Csharp Basic Logger\Complemento Debugguer\DebugViewer\obj\Debug\net8.0-windows\ref\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.AssemblyReference.cache
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.DebugView.resources
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.GenerateResource.cache
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfoInputs.cache
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.AssemblyInfo.cs
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CoreCompileInputs.cache
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.csproj.CopyComplete
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\refint\DebugViewer.dll
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.pdb
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\DebugViewer.genruntimeconfig.cache
+C:\Programming Practices\Csharp Basic Logger\DebugReader\DebugViewer\obj\Debug\net8.0-windows\ref\DebugViewer.dll

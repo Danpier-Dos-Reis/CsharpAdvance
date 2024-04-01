@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "695aaZ+EZTUgjRTuQgKxd1GWZO6DijFiqHhv8gxtTx08HjygQcvXy7RK+l44SeG/isyn9nrYENKSwwVmVBCU8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Programming Practices\\Csharp Basic Logger\\DebugReader\\DebugViewer\\DebugViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danpier\\.nuget\\packages\\nlog\\5.2.8\\nlog.5.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
