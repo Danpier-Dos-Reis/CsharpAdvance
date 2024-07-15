@@ -1,4 +1,4 @@
-namespace CsharpAdvance
+namespace CsharpAdvance.Assets
 {
     public class TokenModel
     {

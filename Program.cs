@@ -1,18 +1,14 @@
-using CsharpAdvance;
-using Microsoft.AspNetCore.Http.HttpResults;
+using CsharpAdvance.Assets;
+using CsharpAdvance.Assets.Services;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-string[] _keys = new string[]
-{
-    "this_is_my_super_ultra_password_anti_haking",
-    "another_super_secret_key_idhdshdshksjdkdsjlkajdlkaj",
-    "yet_another_secret_key_234234fdsfsdfad241243352"
-};
+string[] _keys = new DAL().GetSecretKeys();
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSingleton<IKeyProvider, KeyProvider>();
 builder.Services.AddAuthorization();
 builder.Services.AddAuthentication("Bearer").AddJwtBearer(opt =>
 {
@@ -22,16 +18,12 @@ builder.Services.AddAuthentication("Bearer").AddJwtBearer(opt =>
     {
         ValidateAudience = false,
         ValidateIssuer = false,
-        //De esta forma podemos agregar varias Secrets Key al servicio//
         IssuerSigningKeyResolver = (token, securityToken, kid, validationParameters) =>
         {
-            var keys = new List<SecurityKey>();
-            foreach (var key in _keys)
-            {
-                var signingKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(key));
-                keys.Add(signingKey);
-            }
-            return keys;
+            // Obtener el servicio de IKeyProvider desde el contenedor de servicios
+            var serviceProvider = builder.Services.BuildServiceProvider();
+            var keyProvider = serviceProvider.GetRequiredService<IKeyProvider>();
+            return keyProvider.GetSigningKeys();
         }
     };
 });

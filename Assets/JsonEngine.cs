@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace CsharpAdvance
+namespace CsharpAdvance.Assets
 {
     public class JsonEngine
     {
