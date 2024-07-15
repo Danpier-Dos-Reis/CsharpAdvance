@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danpier/Desktop/projects/Desktop/jwt_app/jwt_app.csproj": {}
+    "/home/danpier/Desktop/projects/Servers/CsharpAdvance/jwt_app.csproj": {}
   },
   "projects": {
-    "/home/danpier/Desktop/projects/Desktop/jwt_app/jwt_app.csproj": {
+    "/home/danpier/Desktop/projects/Servers/CsharpAdvance/jwt_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danpier/Desktop/projects/Desktop/jwt_app/jwt_app.csproj",
+        "projectUniqueName": "/home/danpier/Desktop/projects/Servers/CsharpAdvance/jwt_app.csproj",
         "projectName": "jwt_app",
-        "projectPath": "/home/danpier/Desktop/projects/Desktop/jwt_app/jwt_app.csproj",
+        "projectPath": "/home/danpier/Desktop/projects/Servers/CsharpAdvance/jwt_app.csproj",
         "packagesPath": "/home/danpier/.nuget/packages/",
-        "outputPath": "/home/danpier/Desktop/projects/Desktop/jwt_app/obj/",
+        "outputPath": "/home/danpier/Desktop/projects/Servers/CsharpAdvance/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danpier/.nuget/NuGet/NuGet.Config"
@@ -45,6 +45,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
